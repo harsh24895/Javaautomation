@@ -37,7 +37,7 @@ public class PhoneBillCalculator {
     public static double totalTax(double Minute,double fee){
         double tax = 0.15;
         tax= tax * Minute;
-        double total = fee +tax;
+        double total = fee + tax;
         System.out.println("Plan fee: "+fee);
         System.out.println(Minute);
 
