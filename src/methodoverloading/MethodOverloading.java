@@ -1,4 +1,4 @@
-package rectangleobject;
+package methodoverloading;
 
 public class MethodOverloading {
 

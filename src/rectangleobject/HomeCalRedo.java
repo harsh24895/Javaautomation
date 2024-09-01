@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class HomeCalRedo {
     public static void main(String[] args) {
-
+        //Loook for Rectangle class here are redoing this practice on rectangle class
         // here we declare new HomeCalRedo as we don't want to create a new instance of class but we still want to access from the class
         //here we are calling the method without static declare
         HomeCalRedo calculator = new HomeCalRedo(); //also in java the HomeCalRedo is a constructor define implictly

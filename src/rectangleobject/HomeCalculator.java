@@ -2,7 +2,8 @@ package rectangleobject;
 
 public class HomeCalculator {
     public static void main(String[] args) {
-       //Find the area for the two rooms
+       //look for Rectangle class is attach to it
+        //Find the area for the two rooms
         //Rectange 1
         // we created a new object and calling the constructor Rectangle()
         Rectangle rectangle1 = new Rectangle();
