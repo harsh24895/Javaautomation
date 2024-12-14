@@ -1,5 +1,5 @@
 package datatype;
-
+//CHapter 8b: String example 2
 public class StringBuildertext {
 
     public static void main(String[] args) {

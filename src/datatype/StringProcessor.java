@@ -1,7 +1,7 @@
 package datatype;
 
 
-
+//CHapter 8b: String Example practice
 public class StringProcessor {
 
     public static void main(String[] args) {

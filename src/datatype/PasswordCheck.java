@@ -1,7 +1,7 @@
 package datatype;
 
 import java.util.Scanner;
-
+//May be the Chap 8b pratice homework
 public class PasswordCheck {
     private String username;
     private String currentPassword;

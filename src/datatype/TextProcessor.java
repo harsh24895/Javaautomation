@@ -1,5 +1,6 @@
 package datatype;
 
+//CHapter 8b: String
 public class TextProcessor {
 
     public static void main(String[] args) {
