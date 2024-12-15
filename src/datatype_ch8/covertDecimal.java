@@ -1,4 +1,4 @@
-package datatype;
+package datatype_ch8;
 
 public class covertDecimal {
     public static void main(String[] args) {

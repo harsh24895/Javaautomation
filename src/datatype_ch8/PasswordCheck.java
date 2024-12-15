@@ -1,4 +1,4 @@
-package datatype;
+package datatype_ch8;
 
 import java.util.Scanner;
 //May be the Chap 8b pratice homework

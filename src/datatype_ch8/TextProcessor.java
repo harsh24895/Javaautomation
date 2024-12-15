@@ -1,4 +1,4 @@
-package datatype;
+package datatype_ch8;
 
 //CHapter 8b: String
 public class TextProcessor {
