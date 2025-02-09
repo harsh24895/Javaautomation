@@ -1,8 +1,6 @@
-package method;
+package method_Ch5b;
 
 import java.util.Scanner;
-
-import static java.lang.Boolean.TRUE;
 
 public class methodandscope {
     static int requiredSalary = 25000;
@@ -13,9 +11,9 @@ public class methodandscope {
         double sal = getSalary();
         int cred = getCredit();
         //check the user qualified
-        //just make sure that we have mention different varaible names in paramter but will call the exact memory loaction in backend
+        //just make sure that we have mention different variable names in parameter but will call the exact memory location in backend
         boolean qualified  = isUserQualified(sal,cred);
-        //Notify the user if qulified
+        //Notify the user if qualified
         notifyUser(qualified);
 
 

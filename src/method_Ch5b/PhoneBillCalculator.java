@@ -1,4 +1,4 @@
-package method;
+package method_Ch5b;
 
 import java.util.Scanner;
 

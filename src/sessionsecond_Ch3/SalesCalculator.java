@@ -1,4 +1,4 @@
-package sessionsecond;
+package sessionsecond_Ch3;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class SalesCalculator {
             salary = salary + bonus;
             System.out.println("You total is"+salary);
         }else{
-            System.out.println("please  try next time");
+            System.out.println("please try next time or wrong number");
 
         }
     }

@@ -1,4 +1,4 @@
-package rectangleobject;
+package rectangleobject_Ch6;
 
 import java.util.Scanner;
 

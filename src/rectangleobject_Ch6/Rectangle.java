@@ -1,8 +1,8 @@
-package rectangleobject;
+package rectangleobject_Ch6;
 
 public class Rectangle {
     //private no other class will access this length and the width
-    // make Getter and setter public to access it outside of this package as enscapsulation says
+    // make Getter and setter public to access it outside of this package as encapsulation says
     //Protected is that other classes within the same package will access the variable
     private double length;
     private double width;
@@ -33,8 +33,8 @@ public class Rectangle {
         return width;
     }
 
-    //here the double width is not the same as we declare is on top
-    // it will take to  width varaible memory location and store this to double width
+    // Here the double width is not the same as we declare is on top
+    // it will take to  width variable memory location and store this to double width
     public void setWidth(double width) {
         this.width = width;
     }

@@ -1,4 +1,4 @@
-package sessionsecond;
+package sessionsecond_Ch3;
 
 import java.util.Scanner;
 

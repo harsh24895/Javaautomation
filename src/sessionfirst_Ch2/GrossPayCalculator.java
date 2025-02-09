@@ -1,8 +1,9 @@
-package sessionfirst;
+package sessionfirst_Ch2;
 
 import java.util.Scanner;
 
 public class GrossPayCalculator {
+
 
     public static void main(String arg[]){
 

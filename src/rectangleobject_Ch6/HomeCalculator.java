@@ -1,4 +1,4 @@
-package rectangleobject;
+package rectangleobject_Ch6;
 
 public class HomeCalculator {
     public static void main(String[] args) {
